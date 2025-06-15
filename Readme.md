@@ -13,15 +13,21 @@ Bu proje, bir müzik mağazasının ürünlerinin takibini kolaylaştırmak içi
 
 ##  Güvenlik Özellikleri
 -Şifreler `password_hash()` ile hash'lenir.
+
 -Oturumlar `$_SESSION` ile yönetilir.
+
 -CRUD işlemleri PDO ile yapılır (SQL Injection'a karşı güvenli).
 
 ##  Kurulum
 
 1️⃣ Projeyi htdocs klasörüne kopyalayın
+
 2️⃣ MySQL'de veritabanı oluştur
+
 3️⃣  muzik_magazasi.sql dosyasını içe aktararak tablo ve tablo verilerini oluşturun.
+
 4️⃣ Tüm dosyaları `public_html` içine yükle
+
 5️⃣ Tarayıcıdan projeyi test et
 
 ##  Ekran Görüntüleri
