@@ -26,7 +26,7 @@ Bu proje, bir müzik mağazasının ürünlerinin takibini kolaylaştırmak içi
 
 ##  Ekran Görüntüleri
 Giriş Yapma Ekranı
-https://github.com/LeTranco/Muzik-Magazasi-Urun-Takip-Sistemi/blob/main/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-06-15%20162024.png?raw=true
+![image alt](https://github.com/LeTranco/Muzik-Magazasi-Urun-Takip-Sistemi/blob/main/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-06-15%20162024.png?raw=true)
 
 Ürün Kontrol Ekranı
 
